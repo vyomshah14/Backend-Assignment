@@ -1,0 +1,16 @@
+[
+    {
+        "studentName": "Vyom",
+        "collegeId": "CS101",
+        "course": "Computer Science",
+        "email": "vyom@example.com",
+        "registeredAt": "2026-09-07T15:22:00.186Z"
+    },
+    {
+        "studentName": "Rahul",
+        "collegeId": "CS102",
+        "course": "Information Technology",
+        "email": "rahul@example.com",
+        "registeredAt": "2026-09-07T15:22:34.159Z"
+    }
+]
