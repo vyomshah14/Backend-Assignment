@@ -1,10 +1,10 @@
-# 🚀 Backend & JavaScript Assignments Repository
+# Backend & JavaScript Assignments Repository
 
 Welcome to the **Backend & JavaScript Assignments** repository. This project contains a structured collection of Node.js, Express.js, and core JavaScript assignments covering array manipulation, objects, modules, middleware, validation, RESTful API architecture, and authentication services.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Backend / JS assignment
@@ -72,9 +72,9 @@ Backend / JS assignment
 
 ---
 
-## 📚 Summary of Modules & Assignments
+## Summary of Modules & Assignments
 
-### 🔹 Daily JavaScript Assignments (1 - 8)
+### Daily JavaScript Assignments (1 - 8)
 - **`1/shoppingCart.js`**: Operations for calculating totals, applying discounts, and updating shopping cart items.
 - **`2/userProfile.js`**: Managing and formatting user profile objects with ES6 features.
 - **`3/library.js`**: Library catalog management system for borrowing, returning, and searching books.
@@ -84,16 +84,16 @@ Backend / JS assignment
 - **`7/days.js`**: Date and day determination utilities.
 - **`8/grading.js`**: Grade calculator logic based on marks percentage and rubrics.
 
-### 🔹 Express.js Applications (9 - 11)
+### Express.js Applications (9 - 11)
 - **`9/`**: Express server featuring custom payload and parameter validators (`validator.js`).
 - **`10/`**: RTO Vehicle records lookup and management processing `rto_data.json`.
 - **`11/`**: Student information REST API backed by `students.json`.
 
 ---
 
-## ⭐️ Major Assignments
+## Major Assignments
 
-### 🚄 Major Assignment 1: RailConnect Live Ops Dashboard (`opsDashboard.js`)
+### Major Assignment 1: RailConnect Live Ops Dashboard (`opsDashboard.js`)
 Real-time operations analytics dashboard for train #12951 (*Mumbai Rajdhani Express*):
 - **Occupancy Summary**: Calculates total, confirmed, and waitlisted passenger counts.
 - **Revenue Breakdown**: Computes revenue from confirmed vs waitlisted bookings.
@@ -103,7 +103,7 @@ Real-time operations analytics dashboard for train #12951 (*Mumbai Rajdhani Expr
 
 ---
 
-### 🛒 Major Assignment 2: E-Commerce REST API Backend
+### Major Assignment 2: E-Commerce REST API Backend
 A layered Express backend implementing separation of concerns (Controllers, Services, Routes):
 - **Authentication Routes (`/authRoutes.js`)**: User registration and authentication handlers.
 - **Product Routes (`/productRoutes.js`)**: CRUD operations for e-commerce products with persistent file storage (`products.json`).
@@ -111,7 +111,7 @@ A layered Express backend implementing separation of concerns (Controllers, Serv
 
 ---
 
-### 👤 Major Assignment 3: User Management REST API
+### Major Assignment 3: User Management REST API
 Clean architecture Express server with custom middleware and JSON file persistence:
 - **Logging Middleware (`logger.js`)**: Records HTTP requests with method, URL, and timestamp.
 - **Validation Middleware (`validation.js`)**: Validates required payload fields prior to controller execution.
@@ -119,7 +119,7 @@ Clean architecture Express server with custom middleware and JSON file persisten
 
 ---
 
-## ⚙️ Getting Started & Installation
+## Getting Started & Installation
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16+ recommended)
@@ -149,14 +149,5 @@ node "Major Assignment 1/opsDashboard.js"
 
 ---
 
-## 🛠 Tech Stack
-- **Language**: JavaScript (ES6+)
-- **Runtime**: Node.js
-- **Framework**: Express.js
-- **Database/Storage**: JSON Files (`fs` module / persistent JSON)
-- **Version Control**: Git & GitHub
-
----
-
-## 👤 Author
+## Author
 - **Vyom Shah** ([@vyomshah14](https://github.com/vyomshah14))
